@@ -1,6 +1,7 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #ffddd2
+    background-color: #ffddd2;
+    font-size: 18px;
 }
 
 .title {
@@ -9,4 +10,25 @@ body {
 
 .sobre {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nacionalidade {
+    font-size: 22px;
+    color: #e63946
+}
+
+.organizado {
+    font-size: 20px;
+}
+
+.proativo {
+    font-size: 25px;
+}
+
+.aprendizado {
+    font-size: 21px;
+}
+
+.comunicativo {
+    font-size: 25px;
 }
