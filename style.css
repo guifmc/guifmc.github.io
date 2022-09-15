@@ -17,6 +17,14 @@ body {
 }
 
 
+h3 {
+    font-size: 18px;
+}
+
+.habilidades {
+    font-style: italic;
+}
+
 .iconeLinkedin {
     width: 30px;
     margin-left: 10px;
