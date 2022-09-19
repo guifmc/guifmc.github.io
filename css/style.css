@@ -2,18 +2,36 @@ body {
     font-family: 'Noto Sans', sans-serif;
     background-color: #ffddd2;
     font-size: 18px;
+    padding: 3%;
 }
 
 .title {
-    text-align: left;
+    text-align: center;
 }
 
 .foto {
     border-radius: 50%;
+    float: left;
+    height: 200px;
+    padding: 10px;
+    background-color: blueviolet;
+}
+
+.descricao {
+    position: absolute;
+    top: 10px;
+    left: 245px;
+}
+
+.image-conteiner {
+    height: 400px;
+    position: relative;
 }
 
 .verFoto {
-    margin-left: 65px;
+    position: absolute;
+    bottom: 510px;
+    left: 115px;
 }
 
 
