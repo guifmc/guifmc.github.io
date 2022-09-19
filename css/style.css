@@ -14,7 +14,7 @@ body {
     float: left;
     height: 200px;
     padding: 10px;
-    background-color: blueviolet;
+    background-color: #370617;
 }
 
 .descricao {
@@ -23,8 +23,9 @@ body {
     left: 245px;
 }
 
-.image-conteiner {
-    height: 400px;
+.foto-e-desc {
+    width: 80%;
+    height: 450px;
     position: relative;
 }
 
